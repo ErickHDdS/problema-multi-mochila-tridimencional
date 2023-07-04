@@ -1,6 +1,6 @@
-# Maximização da alocação de produtos em espaços tridimensionais
+# Maximizar a alocacao de produtos em espaços tridimensionais
 
-Este repositório contém um projeto de pesquisa sobre a maximização da alocação de produtos em espaços tridimensionais, utilizando duas abordagens diferentes: o método do Simplex e uma heurística baseada no algoritmo genético. O objetivo do trabalho é comparar as soluções obtidas por meio dessas abordagens e analisar sua eficiência na resolução do problema.
+Este repositório contém um projeto de pesquisa sobre a maximização de valor dos recursos com o objetivo de otimizar genericamente a alocacao de produtos em espaços tridimensionais, utilizando duas abordagens diferentes: o método do Simplex e uma heurística baseada no algoritmo genético. O objetivo do trabalho é comparar as soluções obtidas por meio dessas abordagens e analisar sua eficiência na resolução do problema.
 
 ## Integrantes
 
