@@ -26,7 +26,7 @@ O repositório está organizado da seguinte maneira:
 - `data/`: Este diretório contém os conjuntos de dados de teste para avaliar as soluções.
   - `products_xxxx.csv`: Conjunto de produtos gerados aleatoriamente.
 - `docs/`: Este diretório contém a documentação relacionada ao projeto.
-  - `relatorio.pdf`: Relatório final do projeto contendo a descrição do problema, detalhes das abordagens utilizadas, análise dos resultados e conclusões.
+  - `Maximização_da_alocação_de_produtos_em_espaços_tridimensionais.pdf`: Relatório final do projeto contendo a descrição do problema, detalhes das abordagens utilizadas, análise dos resultados e conclusões.
 
 ## Descrição do Problema
 
